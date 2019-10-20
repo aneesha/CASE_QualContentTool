@@ -24,4 +24,6 @@ The CASE tool aims to improve qualitative content analysis workflow.
 
 ## Run current version in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/CASE_QualContentTool/CASE_Tool_V0.5.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CASE_QualContentTool/blob/master/CASE_Tool_V0_5.ipynb)
+
+
