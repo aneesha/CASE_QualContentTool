@@ -21,3 +21,7 @@ The CASE tool aims to improve qualitative content analysis workflow.
 - [ ] Save tags to a file
 - [ ] Include transfer learning (eg UMLFit type models for auto classification)
 - [ ] Develop custom neural ranking algorithm for Content Analysis
+
+## Run current version in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/CASE_QualContentTool/CASE_Tool_V0.5.ipynb)
